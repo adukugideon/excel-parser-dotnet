@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gidis/.dotnet/store/|arch|/|tfm|",
+      "/Users/gidis/.nuget/packages"
+    ]
+  }
+}
